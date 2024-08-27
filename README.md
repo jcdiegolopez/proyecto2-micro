@@ -21,11 +21,11 @@ Este proyecto implementa un programa que reescala imágenes utilizando interpola
 ## Guía de Instalación
 
 ### 1. Instalación de Visual Studio 2022
-Descargue e instale Visual Studio 2022 desde el sitio oficial de Microsoft e insale deskop tools for c++ developmet.
+Descargue e instale Visual Studio 2022 desde el sitio oficial de Microsoft e instale desktop tools for c++ developmet.
 
 ### 2. Instalación de OpenCV
 Para instalar OpenCV en Visual Studio 2022, siga el tutorial en este video:
-[Instalación de OpenCV en Visual Studio](https://www.youtube.com/watch?v=trXs2r6xSnI)
+[Instalación de OpenCV en Visual Studio](https://www.youtube.com/watch?v=unSce_GPwto)
 
 ### 3. Configuración de OpenMP
 Para habilitar OpenMP en su proyecto:

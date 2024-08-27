@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencvtest", "opencvtest\opencvtest.vcxproj", "{1972AB87-2E1A-4761-8C7E-BB61B96BE518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1972AB87-2E1A-4761-8C7E-BB61B96BE518}.Debug|x64.ActiveCfg = Debug|x64
+		{1972AB87-2E1A-4761-8C7E-BB61B96BE518}.Debug|x64.Build.0 = Debug|x64
+		{1972AB87-2E1A-4761-8C7E-BB61B96BE518}.Debug|x86.ActiveCfg = Debug|Win32
+		{1972AB87-2E1A-4761-8C7E-BB61B96BE518}.Debug|x86.Build.0 = Debug|Win32
+		{1972AB87-2E1A-4761-8C7E-BB61B96BE518}.Release|x64.ActiveCfg = Release|x64
+		{1972AB87-2E1A-4761-8C7E-BB61B96BE518}.Release|x64.Build.0 = Release|x64
+		{1972AB87-2E1A-4761-8C7E-BB61B96BE518}.Release|x86.ActiveCfg = Release|Win32
+		{1972AB87-2E1A-4761-8C7E-BB61B96BE518}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF8270A-4BE7-4527-BB49-91059B638B29}
+	EndGlobalSection
+EndGlobal
